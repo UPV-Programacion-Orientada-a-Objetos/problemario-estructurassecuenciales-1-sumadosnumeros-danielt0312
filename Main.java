@@ -4,6 +4,5 @@ class Main {
         int b = Integer.parseInt(args[1]);
         SumaDosNumeros obj = new SumaDosNumeros();
         System.out.println(obj.suma(a, b));
-        System.out.println("PATATA");
     }
 }
